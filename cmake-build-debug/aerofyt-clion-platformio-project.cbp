@@ -1,0 +1,2223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="aerofyt-clion-platformio-project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_REBUILD_PROJECT_INDEX">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_REBUILD_PROJECT_INDEX"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_PROGRAM">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_PROGRAM"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_UPDATE_ALL">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_UPDATE_ALL"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_UPLOADFS">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_UPLOADFS"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_TEST">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_TEST"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_UPLOAD">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_UPLOAD"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_CLEAN">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_CLEAN"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aerofyt-clion-platformio-project">
+				<Option output="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/aerofyt-clion-platformio-project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/cores/arduino"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/variants/mega"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_BME280_Library"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_SI1145_Library"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_Unified_Sensor"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/BH1750-master"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Blynk/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/BlynkESP8266_Lib"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Time"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Bridge/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/DHT_sensor_library"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/DallasTemperature"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/OneWire"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/GravityTDS-master"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/HX711_Arduino_Library/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/LedControl/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/MQ135"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/SD/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/TinyGSM/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/WiFiEsp/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/SimpleTimer_ID419"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_BMP280_Library"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_Circuit_Playground"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_Circuit_Playground/utility"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/ArduinoJson/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/DHT_sensor_library_for_ESPx"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Firmata"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Firmata/utility"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Keyboard/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Servo/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/WiFiManager"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/firebase-arduino-master/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Adafruit Unified Sensor_ID31"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src"/>
+					<Add directory="/Users/stepanjakl/.platformio/lib/BH1750_ID439"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/toolchain-atmelavr/avr/include"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/tool-unity"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/include"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 aerofyt-clion-platformio-project"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aerofyt-clion-platformio-project/fast">
+				<Option output="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/aerofyt-clion-platformio-project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/cores/arduino"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/variants/mega"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_BME280_Library"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_SI1145_Library"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_Unified_Sensor"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/BH1750-master"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Blynk/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/BlynkESP8266_Lib"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Time"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Bridge/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/DHT_sensor_library"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/DallasTemperature"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/OneWire"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/GravityTDS-master"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/HX711_Arduino_Library/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/LedControl/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/MQ135"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/SD/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/TinyGSM/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/WiFiEsp/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/SimpleTimer_ID419"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_BMP280_Library"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_Circuit_Playground"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Adafruit_Circuit_Playground/utility"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/ArduinoJson/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/DHT_sensor_library_for_ESPx"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Firmata"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Firmata/utility"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Keyboard/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/Servo/src"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/WiFiManager"/>
+					<Add directory="/Users/stepanjakl/Documents/Arduino/libraries/firebase-arduino-master/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Adafruit Unified Sensor_ID31"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src"/>
+					<Add directory="/Users/stepanjakl/.platformio/lib/BH1750_ID439"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/toolchain-atmelavr/avr/include"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed"/>
+					<Add directory="/Users/stepanjakl/.platformio/packages/tool-unity"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/include"/>
+					<Add directory="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 aerofyt-clion-platformio-project/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_BUILD">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_BUILD"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_BUILD_VERBOSE">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_BUILD_VERBOSE"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_MONITOR">
+				<Option working_dir="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PLATFORMIO_MONITOR"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/.DS_Store">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Adafruit Unified Sensor_ID31/.library.json">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Adafruit Unified Sensor_ID31/Adafruit_Sensor.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Adafruit Unified Sensor_ID31/README.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Adafruit Unified Sensor_ID31/library.properties">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/.clang-format">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/.gitattributes">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/.github/ISSUE_TEMPLATE.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/.gitignore">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/.library.json">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/.mbedignore">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/.travis.yml">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/ArduinoJson.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/CHANGELOG.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/CMakeLists.txt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/CONTRIBUTING.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/LICENSE.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/README.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/SUPPORT.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/appveyor.yml">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/banner.svg">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/examples/JsonConfigFile/JsonConfigFile.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/examples/JsonGeneratorExample/JsonGeneratorExample.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/examples/JsonHttpClient/JsonHttpClient.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/examples/JsonParserExample/JsonParserExample.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/examples/JsonServer/JsonServer.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/examples/JsonUdpBeacon/JsonUdpBeacon.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/examples/ProgmemExample/ProgmemExample.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/examples/StringExample/StringExample.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/keywords.txt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/library.json">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/library.properties">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Configuration.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/Encoding.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/JsonBufferAllocated.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/JsonFloat.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/JsonInteger.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/JsonVariantAs.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/JsonVariantContent.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/JsonVariantDefault.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/JsonVariantType.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/List.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/ListConstIterator.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/ListIterator.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/ListNode.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/NonCopyable.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/ReferenceType.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Data/ValueSaver.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Deserialization/Comments.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Deserialization/JsonParser.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Deserialization/JsonParserImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Deserialization/StringWriter.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/DynamicJsonBuffer.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonArray.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonArrayImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonArraySubscript.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonBuffer.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonBufferBase.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonBufferImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonObject.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonObjectImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonObjectSubscript.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonPair.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonVariant.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonVariantBase.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonVariantCasts.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonVariantComparisons.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonVariantImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonVariantOr.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/JsonVariantSubscripts.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Polyfills/attributes.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Polyfills/ctype.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Polyfills/isFloat.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Polyfills/isInteger.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Polyfills/math.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Polyfills/parseFloat.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Polyfills/parseInteger.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/RawJson.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Serialization/DummyPrint.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Serialization/DynamicStringBuilder.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Serialization/FloatParts.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Serialization/IndentedPrint.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Serialization/JsonPrintable.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Serialization/JsonSerializer.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Serialization/JsonSerializerImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Serialization/JsonWriter.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Serialization/Prettyfier.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Serialization/StaticStringBuilder.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/Serialization/StreamPrintAdapter.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/StaticJsonBuffer.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/StringTraits/ArduinoStream.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/StringTraits/CharPointer.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/StringTraits/FlashString.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/StringTraits/StdStream.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/StringTraits/StdString.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/StringTraits/StringTraits.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/EnableIf.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/FloatTraits.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/IsArray.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/IsBaseOf.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/IsChar.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/IsConst.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/IsFloatingPoint.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/IsIntegral.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/IsSame.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/IsSignedIntegral.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/IsUnsignedIntegral.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/IsVariant.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/RemoveConst.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/TypeTraits/RemoveReference.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64/src/ArduinoJson/version.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/.clang-format">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/.gitattributes">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/.github/ISSUE_TEMPLATE.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/.gitignore">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/.library.json">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/.mbedignore">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/.travis.yml">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/ArduinoJson.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/CHANGELOG.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/CMakeLists.txt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/CONTRIBUTING.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/LICENSE.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/README.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/SUPPORT.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/appveyor.yml">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/banner.svg">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/examples/JsonConfigFile/JsonConfigFile.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/examples/JsonGeneratorExample/JsonGeneratorExample.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/examples/JsonHttpClient/JsonHttpClient.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/examples/JsonParserExample/JsonParserExample.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/examples/JsonServer/JsonServer.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/examples/JsonUdpBeacon/JsonUdpBeacon.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/examples/ProgmemExample/ProgmemExample.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/examples/StringExample/StringExample.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/keywords.txt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/library.json">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/library.properties">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Configuration.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/Encoding.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/JsonBufferAllocated.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/JsonFloat.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/JsonInteger.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/JsonVariantAs.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/JsonVariantContent.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/JsonVariantDefault.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/JsonVariantType.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/List.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/ListConstIterator.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/ListIterator.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/ListNode.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/NonCopyable.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/ReferenceType.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Data/ValueSaver.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Deserialization/Comments.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Deserialization/JsonParser.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Deserialization/JsonParserImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Deserialization/StringWriter.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/DynamicJsonBuffer.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonArray.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonArrayImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonArraySubscript.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonBuffer.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonBufferBase.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonBufferImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonObject.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonObjectImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonObjectSubscript.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonPair.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonVariant.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonVariantBase.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonVariantCasts.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonVariantComparisons.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonVariantImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonVariantOr.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/JsonVariantSubscripts.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Polyfills/attributes.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Polyfills/ctype.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Polyfills/isFloat.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Polyfills/isInteger.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Polyfills/math.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Polyfills/parseFloat.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Polyfills/parseInteger.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/RawJson.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Serialization/DummyPrint.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Serialization/DynamicStringBuilder.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Serialization/FloatParts.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Serialization/IndentedPrint.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Serialization/JsonPrintable.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Serialization/JsonSerializer.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Serialization/JsonSerializerImpl.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Serialization/JsonWriter.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Serialization/Prettyfier.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Serialization/StaticStringBuilder.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/Serialization/StreamPrintAdapter.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/StaticJsonBuffer.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/StringTraits/ArduinoStream.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/StringTraits/CharPointer.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/StringTraits/FlashString.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/StringTraits/StdStream.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/StringTraits/StdString.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/StringTraits/StringTraits.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/EnableIf.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/FloatTraits.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/IsArray.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/IsBaseOf.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/IsChar.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/IsConst.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/IsFloatingPoint.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/IsIntegral.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/IsSame.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/IsSignedIntegral.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/IsUnsignedIntegral.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/IsVariant.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/RemoveConst.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/TypeTraits/RemoveReference.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ArduinoJson_ID64@5.13.3/src/ArduinoJson/version.hpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/.library.json">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/README.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP32/BlynkProvisioning.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP32/BlynkState.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP32/ConfigMode.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP32/ConfigStore.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP32/Indicator.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP32/OTA.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP32/ResetButton.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP32/Settings.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP32/Template_ESP32.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP8266/BlynkProvisioning.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP8266/BlynkState.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP8266/ConfigMode.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP8266/ConfigStore.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP8266/Indicator.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP8266/OTA.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP8266/ResetButton.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP8266/Settings.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_ESP8266/Template_ESP8266.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1000/BlynkProvisioning.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1000/BlynkState.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1000/ConfigMode.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1000/ConfigStore.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1000/Indicator.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1000/OTA.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1000/ResetButton.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1000/Settings.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1000/Template_MKR1000.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1010/BlynkProvisioning.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1010/BlynkState.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1010/ConfigMode.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1010/ConfigStore.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1010/Indicator.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1010/OTA.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1010/ResetButton.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1010/Settings.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/Template_MKR1010/Template_MKR1010.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/myPlant_ESP8266/BlynkProvisioning.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/myPlant_ESP8266/BlynkState.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/myPlant_ESP8266/ConfigMode.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/myPlant_ESP8266/ConfigStore.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/myPlant_ESP8266/Indicator.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/myPlant_ESP8266/OTA.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/myPlant_ESP8266/README.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/myPlant_ESP8266/ResetButton.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/myPlant_ESP8266/Settings.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Blynk.Inject/myPlant_ESP8266/myPlant_ESP8266.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/Adafruit_Bluefruit_LE/Adafruit_Bluefruit_LE.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/Adafruit_Feather_32u4_BLE/Adafruit_Feather_32u4_BLE.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/Arduino_101_BLE/Arduino_101_BLE.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/BBC_MicroBit/BBC_MicroBit.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/DFRobot_Bluno_BLE_Link/DFRobot_Bluno_BLE_Link.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/ESP32_BLE/ESP32_BLE.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/ESP32_BT/ESP32_BT.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/Energia_BLE/Energia_BLE.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/LightBlue_Bean/LightBlue_Bean.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/Microduino_BLE/Microduino_BLE.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/RFDuino_BLE/RFDuino_BLE.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/RedBearLab_BLE_Mini/RedBearLab_BLE_Mini.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/RedBearLab_BLE_Nano/RedBearLab_BLE_Nano.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/RedBearLab_BlendMicro/RedBearLab_BlendMicro.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/RedBear_Duo_BLE/RedBear_Duo_BLE.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/Serial_HC05_HC06/Serial_HC05_HC06.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/Serial_HM10_HC08/Serial_HM10_HC08.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/Simblee_BLE/Simblee_BLE.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/TheAirBoard_BLE_Link/TheAirBoard_BLE_Link.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Bluetooth/nRF8001/nRF8001.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Ethernet/Arduino_Ethernet/Arduino_Ethernet.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Ethernet/Arduino_Ethernet2/Arduino_Ethernet2.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Ethernet/Arduino_Ethernet_Manual/Arduino_Ethernet_Manual.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Ethernet/Arduino_MKR_ETH/Arduino_MKR_ETH.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Ethernet/Arduino_MKR_ETH_SSL/Arduino_MKR_ETH_SSL.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Ethernet/ENC28J60/ENC28J60.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Ethernet/Energia_Ethernet/Energia_Ethernet.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Ethernet/Intel_Galileo/Intel_Galileo.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_Ethernet/Seeed_EthernetV2_0/Seeed_EthernetV2_0.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_GSM/Arduino_MKRGSM/Arduino_MKRGSM.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_GSM/Arduino_MKRNB/Arduino_MKRNB.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_GSM/TinyGSM_MKR1400/TinyGSM_MKR1400.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_GSM/TinyGSM_SIM800_SIM900/TinyGSM_SIM800_SIM900.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_USB_Serial/ATtiny85/ATtiny85.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_USB_Serial/Arduino_Serial_USB/Arduino_Serial_USB.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_USB_Serial/Arduino_SoftwareSerial/Arduino_SoftwareSerial.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_USB_Serial/Arduino_Zero_M0_Serial/Arduino_Zero_M0_Serial.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_USB_Serial/Blue_Pill_STM32F103C/Blue_Pill_STM32F103C.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_USB_Serial/Digistump_Digispark/Digistump_Digispark.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_USB_Serial/Energia_Serial_USB/Energia_Serial_USB.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_USB_Serial/Teensy3/Teensy3.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_USB_Serial/chipKIT_Uno32/chipKIT_Uno32.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Adafruit_Feather_M0_WiFi/Adafruit_Feather_M0_WiFi.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Arduino_MKR1000/Arduino_MKR1000.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Arduino_MKR1010/Arduino_MKR1010.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Arduino_WiFi_Shield/Arduino_WiFi_Shield.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Arduino_WiFi_Shield_101/Arduino_WiFi_Shield_101.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Arduino_Yun/Arduino_Yun.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Arduino_org_UNO_WiFi/Arduino_org_UNO_WiFi.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/CC3000/CC3000.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Digistump_Oak/Digistump_Oak.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/ESP32_WiFi/ESP32_WiFi.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/ESP32_WiFi_SSL/ESP32_WiFi_SSL.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/ESP8266_Shield/ESP8266_Shield.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/ESP8266_Standalone/ESP8266_Standalone.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/ESP8266_Standalone_Manual_IP/ESP8266_Standalone_Manual_IP.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/ESP8266_Standalone_SSL/ESP8266_Standalone_SSL.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/ESP8266_Standalone_SmartConfig/ESP8266_Standalone_SmartConfig.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Energia_WiFi/Energia_WiFi.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Fishino/Fishino.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Intel_Edison_WiFi/Intel_Edison_WiFi.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/LinkItONE/LinkItONE.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/NodeMCU/NodeMCU.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/RN_XV_WiFly/RN_XV_WiFly.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/RedBear_Duo_WiFi/RedBear_Duo_WiFi.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/Sparkfun_Blynk_Board/Sparkfun_Blynk_Board.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/TheAirBoard_WiFly/TheAirBoard_WiFly.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/TinyDuino_WiFi/TinyDuino_WiFi.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/WildFire_V3/WildFire_V3.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/WildFire_V4/WildFire_V4.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_WiFi/WizFi310/WizFi310.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_With_HTTP_API/Arduino_Ethernet/Arduino_Ethernet.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_With_HTTP_API/Arduino_GSM/Arduino_GSM.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_With_HTTP_API/ESP8266/ESP8266.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Boards_With_HTTP_API/SIM800_SIM900/SIM800_SIM900.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/GettingStarted/BlynkBlink/App.png">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/GettingStarted/BlynkBlink/AppQR.png">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/GettingStarted/BlynkBlink/BlynkBlink.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/GettingStarted/BlynkBlink/readme.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/GettingStarted/GetData/GetData.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/GettingStarted/PushData/PushData.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/GettingStarted/PushDataOnRequest/PushDataOnRequest.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/GettingStarted/Servo/Servo.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/GettingStarted/VirtualPinRead/VirtualPinRead.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/GettingStarted/VirtualPinReply/VirtualPinReply.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/GettingStarted/VirtualPinWrite/VirtualPinWrite.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/AppConnectedEvents/AppConnectedEvents.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/ArduinoClient/Arduino_Ethernet/Arduino_Ethernet.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/ArduinoClient/ESP8266_WiFi/ESP8266_WiFi.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/DHT11/DHT11.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/DirectConnect/ESP8266_AccessPoint/ESP8266_AccessPoint.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/DirectConnect/ESP8266_Station/ESP8266_Station.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/FormatString/FormatString.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/HandleDisconnect/HandleDisconnect.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/NeoPixel/NeoPixel.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/PrintAllVirtual/PrintAllVirtual.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/ServerAsDataStorage/ServerAsDataStorage_MultiValue/ServerAsDataStorage_MultiValue.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/ServerAsDataStorage/ServerAsDataStorage_SingleValue/ServerAsDataStorage_SingleValue.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/SetProperty/SetProperty_MultiValue/SetProperty_MultiValue.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/SetProperty/SetProperty_SingleValue/SetProperty_SingleValue.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/Stroboscope/Stroboscope.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/Sync/ButtonInterrupt/ButtonInterrupt.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/Sync/ButtonPoll/ButtonPoll.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/Sync/HardwareSyncStateFromApp/HardwareSyncStateFromApp.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/More/Sync/SyncPhysicalButton/SyncPhysicalButton.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/Bridge/Bridge.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/Email/Email.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/Eventor/Eventor.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/GPS_Stream/GPS_Stream.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/JoystickTwoAxis/JoystickTwoAxis.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/LCD/LCD_AdvancedMode/LCD_AdvancedMode.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/LCD/LCD_SimpleModePushing/LCD_SimpleModePushing.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/LCD/LCD_SimpleModeReading/LCD_SimpleModeReading.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/LED/LED_Blink/LED_Blink.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/LED/LED_Color/LED_Color.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/LED/LED_Fade/LED_Fade.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/LED/LED_StatusOfButton/LED_StatusOfButton.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/Map/Map.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/Menu/Menu.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/Player/Player.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/PushNotification/PushNotification_Button/PushNotification_Button.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/PushNotification/PushNotification_Interval/PushNotification_Interval.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/RTC/RTC.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/RTC_Advanced/RTC_Advanced.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/Table/Table_Advanced/Table_Advanced.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/Table/Table_Simple/Table_Simple.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/Terminal/Terminal.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/TimeInput/AdvancedTimeInput/AdvancedTimeInput.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/TimeInput/SimpleTimeInput/SimpleTimeInput.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/TimeInput/UpdateTimeInputState/UpdateTimeInputState.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/Timer/Timer.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/Twitter/Twitter.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/examples/Widgets/WebHook/WebHook_GET/WebHook_GET.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/keywords.txt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/library.json">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/library.properties">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/scripts/README.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/scripts/blynk-ser.bat">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/scripts/blynk-ser.sh">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/scripts/blynk_ctrl.py">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/scripts/certs/server.crt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/scripts/com2tcp.bin">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Adapters/BlynkArduinoClient.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Adapters/BlynkArduinoGSM.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Adapters/BlynkArduinoNB.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Adapters/BlynkBLEPeripheralSerial.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Adapters/BlynkCC3000.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Adapters/BlynkEthernet.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Adapters/BlynkGsmClient.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Adapters/BlynkSerial.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Adapters/BlynkWiFiCommon.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Adapters/BlynkWiFly.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Adapters/BlynkWildFire.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkApi.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkConfig.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkDebug.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkDetectDevice.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkEveryN.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkHandlers.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkParam.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkProtocol.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkProtocolDefs.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkTemplates.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkTimer.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/Blynk/BlynkWidgetBase.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkApiArduino.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkApiMbed.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkApiParticle.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkParticle.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleBLEPeripheral.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleCC3000.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleCurieBLE.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEnergiaEthernet.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEnergiaWiFi.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEsp32.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEsp32_BLE.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEsp32_BT.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEsp32_SSL.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEsp8266.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEsp8266_SSL.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEthernet.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEthernet2.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEthernetSSL.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleEthernetV2_0.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleFishino.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleIntelEdisonWiFi.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleLinkItONE.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleMKR1000.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleMKRGSM.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleMKRNB.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleParticle.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleRFduinoBLE.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleRedBearLab_BLE_Nano.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleRedBear_Duo.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleRedBear_Duo_BLE.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleSIM800.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleSerialBLE.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleShieldEsp8266.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleSimbleeBLE.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleStream.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleTinyDuino.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleTinyGSM.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleUIPEthernet.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleUserDefined.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleWiFiLink.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleWiFiNINA.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleWiFiShield101.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleWiFiShield101_SSL.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleWiFly.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleWifi.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleWildFire.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleWizFi310.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkSimpleYun.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/BlynkWidgets.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/WidgetBridge.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/WidgetGPS.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/WidgetLCD.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/WidgetLED.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/WidgetMap.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/WidgetRTC.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/WidgetSD.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/WidgetTable.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/WidgetTerminal.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/WidgetTimeInput.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/_DSTRootX3.der">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/_DSTRootX3.pem">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/_ISRGRootX1.crt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/_ISRGRootX1.der">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/_LetsEncryptAuthorityX3.crt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/_LetsEncryptAuthorityX3.der">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/_blynk-cloudcom.crt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/_blynk-cloudcom.der">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/blynkcloud_der.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/blynkcloud_pem.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/dst_der.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/isrgroot_der.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/letsencrypt_der.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/certs/letsencrypt_pem.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/utility/BlynkDateTime.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/utility/BlynkDebug.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/utility/BlynkFifo.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/utility/BlynkHandlers.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/utility/BlynkTimer.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/utility/BlynkUtility.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/Blynk_ID415/src/utility/utility.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19/.github/ISSUE_TEMPLATE.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19/.github/PULL_REQUEST_TEMPLATE.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19/.library.json">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19/DHT.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19/DHT.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19/README.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19/examples/DHT_Unified_Sensor/DHT_Unified_Sensor.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19/examples/DHTtester/DHTtester.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19/keywords.txt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/DHT sensor library_ID19/library.properties">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/.DS_Store">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_CertStore/BearSSL_CertStore.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_CertStore/certs-from-mozilla.py">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_MaxFragmentLength/BearSSL_MaxFragmentLength.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_Server/BearSSL_Server.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_Server/cert.pem">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_Server/key.pem">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/BearSSL_ServerClientCert.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/ca.conf">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/ca_cer.pem">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/ca_cer.srl">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/ca_key.pem">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/client.conf">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/client1_cer.pem">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/client1_key.pem">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/client1_req.csr">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/server.conf">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/server_cer.pem">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_ServerClientCert/server_key.pem">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_Sessions/BearSSL_Sessions.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/BearSSL_Validation/BearSSL_Validation.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/EarlyDisableWiFi/EarlyDisableWiFi.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/HTTPSRequest/HTTPSRequest.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/HTTPSRequestAxTLS/HTTPSRequestAxTLS.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/HTTPSRequestCACertAxTLS/CACert.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/HTTPSRequestCACertAxTLS/HTTPSRequestCACertAxTLS.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/IPv6/IPv6.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/NTPClient/NTPClient.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/StaticLease/StaticLease.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/Udp/Udp.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/WiFiAccessPoint/WiFiAccessPoint.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/WiFiClient/WiFiClient.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/WiFiClientBasic/WiFiClientBasic.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/WiFiEvents/WiFiEvents.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/WiFiHTTPSServer/WiFiHTTPSServer.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/WiFiHTTPSServer/make-self-signed-cert.sh">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/WiFiManualWebServer/WiFiManualWebServer.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/WiFiMulti/WiFiMulti.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/WiFiScan/WiFiScan.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/examples/WiFiTelnetToSerial/WiFiTelnetToSerial.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/keywords.txt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/library.properties">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/BearSSLHelpers.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/BearSSLHelpers.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/CertStoreBearSSL.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/CertStoreBearSSL.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFi.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFi.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiAP.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiAP.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiGeneric.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiGeneric.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiMulti.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiMulti.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiSTA-WPS.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiSTA.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiSTA.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiScan.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiScan.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/ESP8266WiFiType.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiClient.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiClient.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiClientSecure.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiClientSecureAxTLS.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiClientSecureAxTLS.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiClientSecureBearSSL.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiClientSecureBearSSL.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiServer.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiServer.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiServerSecure.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiServerSecureAxTLS.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiServerSecureAxTLS.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiServerSecureBearSSL.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiServerSecureBearSSL.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiUdp.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/WiFiUdp.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/include/ClientContext.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/include/DataSource.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/include/SSLContext.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/include/UdpContext.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/include/slist.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/include/ssl.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/ESP8266WiFi/src/include/wl_definitions.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/SimpleTimer_ID419/.gitignore">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/SimpleTimer_ID419/.library.json">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/SimpleTimer_ID419/SimpleTimer.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/SimpleTimer_ID419/SimpleTimer.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/SimpleTimer_ID419/library.json">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/.library.json">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/CHANGES.txt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/README.md">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/examples/ConnectWPA/ConnectWPA.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/examples/ScanNetworks/ScanNetworks.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/examples/UdpNTPClient/UdpNTPClient.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/examples/UdpSendReceive/UdpSendReceive.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/examples/WebClient/WebClient.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/examples/WebClientRepeating/WebClientRepeating.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/examples/WebClientSSL/WebClientSSL.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/examples/WebServer/WebServer.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/examples/WebServerAP/WebServerAP.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/examples/WebServerLed/WebServerLed.ino">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/keywords.txt">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/library.properties">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/WiFiEsp.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/WiFiEsp.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/WiFiEspClient.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/WiFiEspClient.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/WiFiEspServer.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/WiFiEspServer.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/WiFiEspUdp.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/WiFiEspUdp.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/utility/EspDrv.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/utility/EspDrv.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/utility/RingBuffer.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/utility/RingBuffer.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/.piolibdeps/WiFiEsp_ID509/src/utility/debug.h">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/src/.DS_Store">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/src/aerofyt_clion_platformio_project.cpp">
+			<Option target="aerofyt-clion-platformio-project"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/CMakeListsPrivate.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

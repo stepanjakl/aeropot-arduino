@@ -1,0 +1,13 @@
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/aerofyt-clion-platformio-project.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD_VERBOSE.dir
+/Users/stepanjakl/CLionProjects/aerofyt-clion-platformio-project/cmake-build-debug/CMakeFiles/PLATFORMIO_MONITOR.dir
